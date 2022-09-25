@@ -18,14 +18,14 @@ int c =(a/b);
 
 System.out.println(c);
 
-//String city = "Ozon park";
+String city = "Ozon park";
 //System.print.outln
 //
 //String country = "Bangladesh";
 //System.out.println(country);
 
 
-boolean upskill = false;
+boolean upskill = true;
 System.out.println(upskill);
 
 
