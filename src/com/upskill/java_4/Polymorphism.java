@@ -16,7 +16,7 @@ car(2,4);
 		
 	}
 public static void car(int door){
-	System.out.println("My car is Audi, it has door : + door ");	
+	System.out.println("My car is Toyota, it has door : + door ");	
 	
 }
 
